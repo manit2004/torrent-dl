@@ -19,7 +19,6 @@ setup(
     license='LICENSE.txt',
     long_description=open('README.md').read(),
     install_requires=[
-	'altasetting==0.1.1',
 	'babelfish>=0.6.0',
 	'blessed>=1.19.0',
 	'colorama>=0.4.0',
@@ -27,7 +26,6 @@ setup(
 	'guessit>=3.0.0',
 	'lockfile==0.12.2',
 	'netifaces==0.10.5',
-	'Ojota>=3.3.0',
 	'pyaml>=21.0.0',
 	'python-daemon>=2.3.0',
 	'python-dateutil>=2.8.0',
